@@ -1,0 +1,133 @@
+div{
+    position: relative;
+}
+.cloud1{
+position: absolute;
+top: 20px;
+right: 450px;
+}
+
+.pacifico-regular{
+    font-family: "Pacifico", cursive;
+    font-size: 50px;
+    font-style: normal;
+    padding-bottom: 20px;
+}
+  
+
+/* body{
+    font-size: 50px;
+} */
+
+
+.cloud2{
+position: absolute;
+left: 450px;
+bottom: 290px;
+}
+*{
+    margin: 0%;
+}
+
+.yaniv{
+    border-radius: 170px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}   
+    
+.hello{  
+    color:rgb(57, 169, 169); 
+    font-size: 25px; 
+    font-family: "Roboto Mono", monospace;
+}
+
+
+
+.pencil{
+      width: 50%;
+      margin: 100px auto 100px auto;
+      line-height: 2.0;
+      /* padding-bottom: 50px; */
+
+}
+.img{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+
+}
+
+.classroom{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    line-height: 2.0;
+} 
+
+.cimg{
+    width: 25%;
+    border-radius: 170px;
+    float: right;
+    margin: auto 250px auto 50px;
+}
+
+.language{
+        width: 50%;
+        margin: 100px auto 100px auto;
+        padding-top: 50px;
+        line-height: 2.0;
+    
+}
+
+.limg{
+    width: 25%;
+    float: left;
+    border-radius: 170px;
+    padding-right: 35px;
+}
+
+.get{
+    text-align: center;
+}
+
+.touch{
+    color: rgb(57, 169, 169);
+    font-family: "Roboto Mono", monospace;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+.contact-button{
+    
+    background-color: rgb(57, 169, 169);
+    width: 130px;
+    height: 30px;
+    border-radius: 50px;
+    float: right;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 676px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    border-style: none;
+    
+}
+
+.contact-button:hover{
+    background-color: black;
+    color: rgb(57, 169, 169);
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+footer{
+    background-color: rgb(57, 169, 169);
+    height: 60px;
+    margin-top: 50px;
+    padding-top: 20px;
+    text-align: center;
+}
